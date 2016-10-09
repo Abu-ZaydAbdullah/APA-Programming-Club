@@ -83,7 +83,7 @@ class Grid :
                     return False
         return True
     
-    def solve():
+    def solve(self):
         while not Grid.solved():
             for i in range(Grid.length):
                 Grid.solveSquare(i)
@@ -111,5 +111,5 @@ class Grid :
         return txt
     
 test = Grid()
-test.solve();
+test.solve()
 print(test)
