@@ -1,0 +1,22 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="farm2u.com" resolutions="1x" timestamp="1477883031163">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="76677723" ref="index"/>
+    <file name="nomq_index.css" crc="4098978365" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="farm2u8-u94.png" crc="4014261174" ref="index"/>
+    <file name="farm2u8-u942.png" crc="535604035" ref="index"/>
+    <file name="farm2u8-u943.png" crc="3778901916" ref="index"/>
+    <file name="farm2u8-u944.png" crc="4283206512" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="507543817" seo="true" mt="1477882983309" redirect="true"/>
+</manifest>
